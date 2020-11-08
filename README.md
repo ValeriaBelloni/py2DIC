@@ -10,7 +10,7 @@ More information in the following scientific papers:
 
 V. Belloni, R. Ravanelli, A. Nascetti, M. Di Rita, D. Mattei, and M. Crespi. py2dic: A new free and open source software for displacement and strain measurements in the field of experimental mechanics. Sensors, 19(18):3832, 2019
 
-V. Belloni, R. Ravanelli, A. Nascetti, M. Di Rita, D. Mattei, and M. Crespi. Digital image correlation from commercial to fos software: A mature technique for full-eld displacement measurements. ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-2:91-95, 2018
+V. Belloni, R. Ravanelli, A. Nascetti, M. Di Rita, D. Mattei, and M. Crespi. Digital image correlation from commercial to fos software: A mature technique for full-field displacement measurements. ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-2:91-95, 2018
 
 R. Ravanelli, A. Nascetti, M. Di Rita, V. Belloni, D. Mattei,
 N. Nisticò, and M. Crespi. A new digital image correlation software for displacements field measurement in structural applications. ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W2:139-145, 2017
