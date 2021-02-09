@@ -15,4 +15,4 @@ V. Belloni, R. Ravanelli, A. Nascetti, M. Di Rita, D. Mattei, and M. Crespi. Dig
 R. Ravanelli, A. Nascetti, M. Di Rita, V. Belloni, D. Mattei,
 N. Nisticò, and M. Crespi. A new digital image correlation software for displacements field measurement in structural applications. ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W2:139-145, 2017
 
-Presented at: FOSS4G PARIS | MARNE-LA-VALLÉE | 18-22 JULY 2017 and ISPRS TC II | ISPRS TC II Mid-term Symposium Towards Photogrammetry 2020 | 4-7 JUNE 2017
+Presented at: FOSS4G PARIS | MARNE-LA-VALLÉE | 18-22 JULY 2017 and ISPRS TC II | ISPRS TC II Mid-term Symposium Towards Photogrammetry 2020 | 4-7 JUNE 2018
